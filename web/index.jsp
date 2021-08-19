@@ -17,7 +17,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="https://kit.fontawesome.com/fec6c7f184.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="css/style2.css">
-        <title>Rinconcito</title>
+        <title>Rinconsito</title>
     </head>
     <body>
         <div class="grid-container">
