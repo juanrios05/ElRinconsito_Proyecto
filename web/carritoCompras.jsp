@@ -23,7 +23,7 @@
         <header>
             <div>
 
-                <a class="logo" href="sesioniniciada.jsp">El Rinconcito</a>
+                <a class="logo" href="sesioniniciada.jsp">El Rinconsito</a>
             </div>
 
         </header>

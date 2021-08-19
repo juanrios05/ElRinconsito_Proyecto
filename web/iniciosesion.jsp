@@ -17,7 +17,7 @@
     <body>
         <header>
             <div>
-                <a class="logo" href="index.jsp">El Rinconcito</a>
+                <a class="logo" href="index.jsp">El Rinconsito</a>
             </div>            
         </header>
         <main>

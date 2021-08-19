@@ -22,13 +22,13 @@
         <script src="https://kit.fontawesome.com/fec6c7f184.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="css/style2.css">
         <script src="js/menudesplegable.js" type="text/javascript"></script>
-        <title>Rinconcito</title>
+        <title>Rinconsito</title>
     </head>
     <body>
         <div class="grid-container">
             <header>
                 <div>
-                    <a class="logo" >El Rinconcito</a>
+                    <a class="logo" >El Rinconsito</a>
                 </div>
                 <div>
                     <a href="Controlador?accion=verCarrito" title="Carrito"><i class="fas fa-shopping-cart">(<label style="color: #41df41">${contador}</label>)</i></a>

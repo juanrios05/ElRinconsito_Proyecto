@@ -23,7 +23,7 @@
         <div class="grid-container">
             <header>
                 <div>
-                    <a class="logo">El Rinconcito</a>
+                    <a class="logo">El Rinconsito</a>
                 </div>
                 <div>
                     <a href="iniciosesion.jsp" title="Inicar Sesión"><i class="icono-index fa fa-sign-in"></i></a>

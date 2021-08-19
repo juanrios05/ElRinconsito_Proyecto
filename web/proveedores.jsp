@@ -23,7 +23,7 @@
         <div class="grid-container">
             <header>
                 <div>
-                    <a class="logo" href="sesioniniciadaadministrador.jsp">El Rinconcito</a>
+                    <a class="logo" href="sesioniniciadaadministrador.jsp">El Rinconsito</a>
                 </div>            
             </header>            
             <main>
