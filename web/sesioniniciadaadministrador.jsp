@@ -40,6 +40,10 @@
                 </div>
                 <strong>|</strong>
                 <div>
+                    <a href="informes.jsp">Informes</a>
+                </div>
+                <strong>|</strong>
+                <div>
                     <a href="Administrador?accion=copiaSeguridadBaseDatos">Base de Datos</a>
                 </div>
                 <strong>|</strong>
